@@ -1,6 +1,6 @@
 FROM openjdk:8-jre
 
-MAINTAINER Sadik <driveman20000@gmail.com>
+MAINTAINER Sadik08 <driveman20000@gmail.com>
 
 ENV GITBUCKET_VER 4.37.1
 ENV GITBUCKET_EXTRA_DEPS "git procps"
