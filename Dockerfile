@@ -1,4 +1,4 @@
-FROM openjdk:8-jre
+FROM openjdk:11-jre
 
 MAINTAINER Sadik08 <driveman20000@gmail.com>
 
